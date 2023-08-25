@@ -1,0 +1,24 @@
+[
+    {
+      "title": "CHO BLA",
+      "description": "Chocolate 20% cacao",
+      "price": 670,
+      "thumbnail": "",
+      "code": "ARCM43",
+      "stock": 64,
+      "category": "shooter",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "CHO NEG",
+      "description": "Chocolate 70% cacao",
+      "price": 452,
+      "thumbnail": "",
+      "code": "ORDR66",
+      "stock": 4,
+      "category": "shooter",
+      "status": true,
+      "id": 2
+    }
+  ]
